@@ -1,2 +1,1 @@
-# crispy-biscuet-
-Thesis code
+# crispy-biscuit
